@@ -5,3 +5,7 @@ h1{
     p{
       font-style:italic;
       }
+    body{
+        width:80%;
+        margin:auto;
+}
